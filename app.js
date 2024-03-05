@@ -24,30 +24,3 @@ if (
 }else {
     alert("Invalid operator, please use ( + - * / )");
 }
-
-
-
-
-
-// var valueOne = +prompt("Enter value one");
-// var valueTwo = +prompt("Enter value two");
-// var operator = prompt("Enter arithmetic operation");
-// if (
-//     operator === "+" ||
-//     operator === "-" ||
-//     operator === "*" ||
-//     operator === "/"
-//   ) {
-//     console.log("conditional block is running");
-//     if (operator === "+") {
-//       console.log(valueOne + valueTwo);
-//     } else if (operator === "-") {
-//       console.log(valueOne - valueTwo);
-//     } else if (operator === "*") {
-//       console.log(valueOne * valueTwo);
-//     } else if (operator === "/") {
-//       console.log(valueOne / valueTwo);
-//     }
-//   } else {
-//     alert("invalid operator, please use + - * /");
-//   }
